@@ -106,7 +106,7 @@
 <img 
       align="left" 
       alt="Technologies" 
-      height="130" 
+      height="120" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleal01&theme=dark&layout=compact&custom_title=Technologies&langs_count=5" 
   />
 

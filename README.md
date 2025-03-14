@@ -89,25 +89,3 @@
 
 <br/>
 <br/>
-
-##
-
-### :bar_chart: Stats
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=diegoleal01&show_icons=true&theme=dark&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="Technologies" 
-      height="120" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoleal01&theme=dark&layout=compact&custom_title=Technologies&langs_count=5" 
-  />
-
-</p>
